@@ -37,7 +37,6 @@ export default function Contact() {
           <div className="text-sm text-white/70">+1 (541) 588-3787</div>
         </a>
       </div>
-      <p className="mt-4 text-xs text-white/60">Replace contact details or wire to your CRM/webhook.</p>
     </main>
   )
 }
