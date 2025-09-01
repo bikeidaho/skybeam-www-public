@@ -28,13 +28,13 @@ export default function Contact() {
       </form>
 
       <div className="mt-6 grid md:grid-cols-2 gap-6">
-        <a className="card p-6 hover:bg-white/10" href="mailto:hello@example.com">
+        <a className="card p-6 hover:bg-white/10" href="mailto:hello@skybeam.me">
           <div className="font-semibold">Email</div>
-          <div className="text-sm text-white/70">hello@example.com</div>
+          <div className="text-sm text-white/70">hello@skybeam.me</div>
         </a>
         <a className="card p-6 hover:bg-white/10" href="tel:+15555550123">
           <div className="font-semibold">Phone</div>
-          <div className="text-sm text-white/70">+1 (555) 555-0123</div>
+          <div className="text-sm text-white/70">+1 (541) 588-3787</div>
         </a>
       </div>
       <p className="mt-4 text-xs text-white/60">Replace contact details or wire to your CRM/webhook.</p>
